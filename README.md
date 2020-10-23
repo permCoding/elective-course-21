@@ -23,6 +23,9 @@
 ### Блокноты к занятиям:  
 * [Блокнот-01](https://colab.research.google.com/drive/183_JbFUgMHB1C4sUUdCkYyrkBw8wIkT5?usp=sharing)  
 
+### Блокноты по отдельным задачам:  
+* [task-06](https://colab.research.google.com/drive/1yDwbI2PcDptcq1PmMlEjpFaMRO1F0hdG?usp=sharing)  
+
 ---
 
 Чем будем пользоваться:  
