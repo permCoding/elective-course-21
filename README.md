@@ -21,7 +21,7 @@
 
 ---  
 ### Блокноты к занятиям:  
-* [Блокнот-01]()  
+* [Блокнот-01](https://colab.research.google.com/drive/183_JbFUgMHB1C4sUUdCkYyrkBw8wIkT5?usp=sharing)  
 
 ---
 
@@ -60,7 +60,7 @@
 ---  
 
 **ДЕНЬ-01 24.10.2020**  
-[Блокнот-01]()  
+[Блокнот-01](https://colab.research.google.com/drive/183_JbFUgMHB1C4sUUdCkYyrkBw8wIkT5?usp=sharing)  
 **Алгоритмы, программы, языки...**  
 > Краткий обзор курса  
 > Обзор используемых средств и технологий  
