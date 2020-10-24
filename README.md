@@ -26,6 +26,9 @@
 ### Блокноты по отдельным задачам:  
 * [task-06](https://colab.research.google.com/drive/1yDwbI2PcDptcq1PmMlEjpFaMRO1F0hdG?usp=sharing)  
 
+### Дополнительные материалы:  
+* [ЕГЭ по Информатике и ИКТ в 21 году](https://2021god.com/ege-po-informatike-v-2021-godu/)  
+
 ---
 
 Чем будем пользоваться:  
