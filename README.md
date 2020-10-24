@@ -39,7 +39,8 @@
 5) **SoloLearn** на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=com.sololearn&hl=ru)  
 в SoloLearn подпишитесь на курс Python 3 и начинайте изучать  
 6) Stepik на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=org.stepic.droid&hl=ru)  
-7) [Универсальный текстовый редактор Notepad++](https://notepad-plus-plus.org/downloads/)  
+7) [Open Hub для GitHub](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=ru)  
+8) [Универсальный текстовый редактор Notepad++](https://notepad-plus-plus.org/downloads/)  
 
 ---  
 ```
