@@ -13,11 +13,12 @@
 ---
 
 ### Дистанционные занятия тут:  
-* [Первая точка входа BBB](https://bbb.psaa.ru/b/and-jca-drk)  
-* [Вторая точка входа BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
-* [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
-* [Четвёртая точка входа Discord](https://discord.gg/ZK4kgdn)  
-* [Пятая точка входа Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
+* [Первая точка входа ЕГЭ Информатика](https://bbb5.psaa.ru/b/and-twy-yrc)  
+* [2 входа BBB](https://bbb.psaa.ru/b/and-jca-drk)  
+* [3 входа BBB5](https://bbb5.psaa.ru/b/and-jxn-mr6)  
+* [4 точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)  
+* [5 точка входа Discord](https://discord.gg/ZK4kgdn)  
+* [6 точка входа Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)  
 
 ---  
 ### Блокноты к занятиям:  
