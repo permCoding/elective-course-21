@@ -12,4 +12,5 @@ for pos in range(len(line)-1):
     else:
         count = 1
 
+if max_count == 1: max_count = 0 # важно, а что если все были одинаковые
 print(max_count)
