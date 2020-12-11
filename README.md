@@ -125,12 +125,12 @@
 > Продолжаем изучать Питон  
 > Практикуем работу в среде repl.it  
 > Работаем с файлами (чтение, запись)  
-> Решаем задачи из Демо-версии ЕГЭ - задачи: 06, 14, 24, 25, 26...  
-> Задания по звуковым файлам (старые) - https://inf-ege.sdamgia.ru/test?theme=374  
+> Решаем задачи из Демо-версии ЕГЭ - задачи: 07, 27, 06, 14, 24, 25, 26  
+> Задания по звуковым файлам [старые тут](https://inf-ege.sdamgia.ru/test?theme=374)  
 > Решаем задачи "Вторая тренировка" [на Stepik`е](https://stepik.org/63529)  
 
 [Сайт для решения задач ЕГЭ inf-ege.sdamgia](https://inf-ege.sdamgia.ru/)  
-[Программы и данные для занятия в папке day04](https://github.com/permCoding/elective-course-21/tree/main/py/day04/)  
+[Программы и данные для занятия в папке day04](https://github.com/permCoding/elective-course-21/tree/main/py/day05/)  
 
 Ссылки на программы с repl`а:    
 
