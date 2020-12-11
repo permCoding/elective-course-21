@@ -10,7 +10,7 @@
 > Решаем задачи "Вторая тренировка" [на Stepik`е](https://stepik.org/63529)  
 
 [Сайт для решения задач ЕГЭ inf-ege.sdamgia](https://inf-ege.sdamgia.ru/)  
-[Программы и данные для занятия в папке day04](https://github.com/permCoding/elective-course-21/tree/main/py/day05/)  
+[Программы и данные для занятия в папке day05](https://github.com/permCoding/elective-course-21/tree/main/py/day05/)  
 
 Ссылки на программы с repl`а:    
 
