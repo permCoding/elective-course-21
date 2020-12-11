@@ -2,20 +2,21 @@ f = open('27-4-C.txt')
 n = int(f.readline())
 
 result = 0
-m, m2, m7, m14_1, m14_2 = 0, 0, 0, 0, 0
+m, m2, m7, m14 = 0, 0, 0, 0
 
 for _ in range(n):
     a = int(f.readline())
     if a % 14 == 0:
-        if a >= m14_1:
-            m14_2 = m14_1; m14_1 = a
+        if a >= m14:
+            if a == m14 and a > m: m = a
+            m14 = a
     else:
         if a % 7 == 0 and a > m7: m7 = a
         if a % 2 == 0 and a > m2: m2 = a
         if a > m: m = a
 
 f.close()
-result = max(m14_1*m, m7*m2, m14_1*m14_2)
+result = max(m14*m, m7*m2)
 print(result)
 
 '''
