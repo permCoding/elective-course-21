@@ -20,9 +20,16 @@ __ разбор Задания 1 (2020г.) - https://youtu.be/JyXiG9aazJA
 __ https://pcoding.ru/  
 8. Редактор Блок-схем алгоритмов тут:  
 __ https://pcoding.ru/res/redaktor.rar  
+
 9. Курс на Stepik`е для подготовки к ЕГЭ:  
 __ https://stepik.org/50169/  
+
 10.Тренировочные задачи по ЕГЭ в ЯндексРепетиторе:  
 __ https://yandex.ru/tutor/subject/?subject_id=6  
+
+---  
+
+Кабинет Зорина АА  
+https://bbb5.psaa.ru/b/qrg-v7k-ltb  
 
 ---  
