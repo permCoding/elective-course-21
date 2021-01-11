@@ -9,27 +9,56 @@ Q = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}.
 Определите наибольшее возможное количество элементов в множестве A.
 '''
 
+# этот кусок кода просто для проверки
+# x = 3
+# f = x in {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}
+# print(f)
+# f = x in [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+# print(f)
+
+# этот кусок кода просто для проверки
+# P = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}
+# Q = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}
+# A = P | Q
+# print(len(A))
+# print(A)
+
+
 # программный код нужно переписать - он от другой задачи
 
-def get(x, AL, AR):
-    f1 = 5 <= x <= 30
-    f2 = 14 <= x <= 23
-    f3 = not(AL <= x <= AR)
-    return int(f1 == f2) <= int(f3)
+P = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}
+Q = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}
+A = P | Q
+
+def get(x, B):
+    f1 = x in P
+    f2 = x in Q
+    f3 = x in B
+    return (int(f3) <= int(f1)) and (int(f2) <= int(not(f3)))
 
 
-DL = -100
-DR = +100
-mx = 0 # ширина искомого участка
-for AL in range(DL, DR):
-    for AR in range(DL, DR):
-        check = True
-        for x in range(DL, DR):
-            if get(x, AL, AR) is False:
-                check = False
-                break
-        if check is True:
-            if AR - AL + 1 > mx: # нужно выбрать самый большой
-                mx = AR - AL + 1
+mx = 0
+DL = +1
+DR = +31
+lst = list(A)
+for num in range(0, 2**len(A)):
+    B = []
+    bn = num
+    pos = 0
+    while bn > 0:
+        if bn & 1 > 0:
+            B.append(lst[pos])
+        pos += 1
+        bn >>= 1
+    check = True
+    for x in range(DL, DR):
+        if get(x, B) is False:
+            check = False
+            break
+    if check is True:
+        if len(B) > mx: # нужно выбрать самый большой
+            mx = len(B)
+
 
 print(f'mx = {mx}')
+
