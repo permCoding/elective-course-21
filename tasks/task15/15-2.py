@@ -7,6 +7,7 @@
 тождественно истинна (= 1 при любом неотрицательном целом значении переменной х)?
 '''
 
+
 def fn(n, m):
     return n & m
 
@@ -18,13 +19,13 @@ def get(x, A):
     return int(f1) <= (int(f2) <= int(f3))
 
 
-for A in range(0, 1000): # неотрицательные А
-    check = True # число А признаётся хорошим
-    for x in range(0, 1000): # неотрицательные x
-        if get(x, A) == False: # тождественно Ложна
+for A in range(0, 1000):  # неотрицательные А
+    check = True  # число А признаётся хорошим
+    for x in range(0, 1000):  # неотрицательные x
+        if get(x, A) is False:  # тождественно Ложна
             check = False
             break
-    if check == True:
+    if check is True:
         print(A)
         break
 
