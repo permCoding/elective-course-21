@@ -16,7 +16,7 @@ def get(x, AL, AR):
 
 DL = -100
 DR = +100
-mx = 0 # ширина искомого участка
+mx = 0  # ширина искомого участка
 for AL in range(DL, DR):
     for AR in range(DL, DR):
         check = True

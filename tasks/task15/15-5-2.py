@@ -43,13 +43,10 @@ mx = 0
 lstA = list(A)
 for num in range(0, 2**len(A)):
     B = []
-    bn = num
-    pos = 0
-    while bn > 0:
-        if bn & 1 > 0:
+    bn = bin(num)[2:]
+    for pos in range(len(bn)):
+        if bn[pos] == '1':
             B.append(lstA[pos])
-        pos += 1
-        bn >>= 1
     check = True
     for x in A:
         if get(x, B) is False:
