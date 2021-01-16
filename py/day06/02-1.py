@@ -1,3 +1,5 @@
+# task 6
+
 s = int(input())
 n = 1
 while s < 51:
