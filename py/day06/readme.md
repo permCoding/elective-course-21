@@ -16,6 +16,8 @@
 [Программы и данные для занятия в папке day06](https://github.com/permCoding/elective-course-21/tree/main/py/day06/)  
 [Программы и данные по всем темам в папке tasks](https://github.com/permCoding/elective-course-21/tree/main/tasks/)  
 
+https://repl.it/@pCoding/task3-1  
+
 ---  
 
 ```
