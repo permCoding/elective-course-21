@@ -12,6 +12,10 @@
 [Программы и данные для занятия в папке day07](https://github.com/permCoding/elective-course-21/tree/main/py/day07/)  
 [Программы и данные по всем темам в папке tasks](https://github.com/permCoding/elective-course-21/tree/main/tasks/)  
 
+10:00 - 11:10  
+11:20 - 12:30  
+12:45 - 14:00  
+
 ---  
 
 ```
