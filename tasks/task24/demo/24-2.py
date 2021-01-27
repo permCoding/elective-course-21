@@ -1,4 +1,6 @@
-line = 'XYZZYXYZ' # добавим сброс счётчика
+# step 2 - добавим сброс счётчика когда пара равных символов
+
+line = 'XYZZYXYZ'
 
 count = 1
 for pos in range(len(line)-1):
