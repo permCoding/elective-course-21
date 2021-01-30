@@ -13,8 +13,8 @@
 [Программы и данные по всем темам в папке tasks](https://github.com/permCoding/elective-course-21/tree/main/tasks/)  
 
 10:00 - 11:10  
-11:25 - 12:25  
-12:40 - 14:00  
+11:25 - 12:35  
+12:50 - 14:00  
 
 ---  
 
