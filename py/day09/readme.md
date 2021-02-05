@@ -12,6 +12,7 @@
 > Решаем задачи из Демо-версии ЕГЭ:  
 > 25 - https://inf-ege.sdamgia.ru/test?theme=414  
 > Решаем задачи на Stepik: https://stepik.org/63529/  
+> 26 - https://inf-ege.sdamgia.ru/test?theme=415  
 > 27 - https://inf-ege.sdamgia.ru/test?theme=416  
 > 24 - https://inf-ege.sdamgia.ru/test?theme=413  
 
