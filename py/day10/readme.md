@@ -1,6 +1,8 @@
 **ДЕНЬ-10 13.02.2021**  
 **Обработка данных**  
 
+Можно порешать задачи 12 и 16.  
+
 > Работаем в среде IDLE - Integrated Development and Learning Environment  
 > Решаем задачи из Демо-версии ЕГЭ:  
 > 26 - https://inf-ege.sdamgia.ru/test?theme=415  
