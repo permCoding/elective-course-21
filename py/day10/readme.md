@@ -3,6 +3,8 @@
 
 > Работаем в среде IDLE - Integrated Development and Learning Environment  
 > Решаем задачи из Демо-версии ЕГЭ:  
+> 16 - https://inf-ege.sdamgia.ru/test?theme=209  
+> решаем задачу на рекурсию обычным циклом и рекурсией  
 > 26 - https://inf-ege.sdamgia.ru/test?theme=415  
 > решаем в Excel и в Python`e  
 > Решаем задачи на Stepik: https://stepik.org/63529/  
