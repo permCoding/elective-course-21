@@ -5,13 +5,16 @@ def F(n):
     return lst
 
 
-n = 5
-listF = F(n)[1:]
-mapS = map(str, listF)
-print('\n'.join(mapS))
+n = 8
+
+##listF = F(n)[1:]
+##mapS = map(str, listF)
+##print('\n'.join(mapS))
 
 
+##print('\n'.join(list(map(str, F(n)[1:]))))
 
+print('\n'.join(map(str, F(n)[1:])))
 
 
 ##l = ['2', '33', '666']
