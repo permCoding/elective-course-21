@@ -4,12 +4,18 @@
 Можно порешать задачи 12 и 16.  
 
 > Работаем в среде IDLE - Integrated Development and Learning Environment  
+>  
 > Решаем задачи из Демо-версии ЕГЭ:  
 > 16 - https://inf-ege.sdamgia.ru/test?theme=209  
 > 16 - https://inf-ege.sdamgia.ru/test?theme=275  
 > решаем задачу на рекурсию обычным циклом и рекурсией  
+>  
 > 26 - https://inf-ege.sdamgia.ru/test?theme=415  
 > решаем в Excel и в Python`e  
+>  
+> разбор методов функционального программирования  
+> lambda, map, filter, reduce, zip, split, join  
+>  
 > Решаем задачи на Stepik: https://stepik.org/63529/  
 > 25 - https://inf-ege.sdamgia.ru/test?theme=414  
 > 27 - https://inf-ege.sdamgia.ru/test?theme=416  
