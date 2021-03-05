@@ -3,6 +3,8 @@
 
 Порешаем...  
 
+---  
+
 Задачи про исполнителя:  
 с обязательным этапом - https://inf-ege.sdamgia.ru/test?theme=277  
 с избегаемым этапом - https://inf-ege.sdamgia.ru/test?theme=217  
@@ -14,9 +16,14 @@ https://inf-ege.sdamgia.ru/problem?id=14708
 
 ---  
 
+Задача о замене символов в строке  
 https://inf-ege.sdamgia.ru/problem?id=15924  
 
+---  
+
 https://inf-ege.sdamgia.ru/problem?id=29672  
+
+---  
 
 https://inf-ege.sdamgia.ru/problem?id=29666  
 
