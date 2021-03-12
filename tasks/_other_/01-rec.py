@@ -1,11 +1,10 @@
-def F(x, n, k, z=0):
-    if k == 0:
+def F(x, k):
+    if k < 0:
         return 0
     else:
-        z += x**k
-        return n/z + F(x, n, k-1, z)
+        return (11 - k) * x ** k + F(x, k-1)
 
 
-n = 2
 x = 2
-print(F(x, n, n))
+k = 10
+print(F(x, k))
