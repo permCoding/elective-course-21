@@ -235,6 +235,7 @@ https://inf-ege.sdamgia.ru/problem?id=29666
 > Решаем задание 2 на Логику в Excel`е:  
 > - https://inf-ege.sdamgia.ru/test?theme=354  
 > - https://inf-ege.sdamgia.ru/test?theme=352  
+> ..  
 > Решаем задачи на рекурсию  
 > Решаем задачи на обработку массивов на степике: https://stepik.org/lesson/416145/step/1?unit=497387  
 > ..  
