@@ -241,6 +241,18 @@ https://inf-ege.sdamgia.ru/problem?id=29666
 
 ---  
 
+**ДЕНЬ-13 04.04.2021**  
+**Решаем задачи из ЕГЭ**  
+
+25 - про делители:  
+https://inf-ege.sdamgia.ru/problem?id=27858
+
+27 - выбрать числа  
+https://kpolyakov.spb.ru/school/ege/gen.php?action=viewTopic&topicId=3776  
+
+Обработка массивов:  
+https://stepik.org/lesson/416145/step/1?unit=405659  
+
 ```
 
 ```
