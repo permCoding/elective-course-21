@@ -253,6 +253,15 @@ https://kpolyakov.spb.ru/school/ege/gen.php?action=viewTopic&topicId=3776
 Обработка массивов:  
 https://stepik.org/lesson/416145/step/1?unit=405659  
 
+---  
+
+**ДЕНЬ-14 __.04.2021**  
+**Решаем задачи из ЕГЭ**  
+
+05 - двоичное преобразование (решаем питоном):  
+https://inf-ege.sdamgia.ru/test?theme=362  
+
+
 ```
 
 ```
