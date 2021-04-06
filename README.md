@@ -241,7 +241,7 @@ https://inf-ege.sdamgia.ru/problem?id=29666
 
 ---  
 
-**ДЕНЬ-13 04.04.2021**  
+**ДЕНЬ-13 03.04.2021**  
 **Решаем задачи из ЕГЭ**  
 
 25 - про делители:  
@@ -255,12 +255,16 @@ https://stepik.org/lesson/416145/step/1?unit=405659
 
 ---  
 
-**ДЕНЬ-14 __.04.2021**  
+**ДЕНЬ-14 10.04.2021**  
 **Решаем задачи из ЕГЭ**  
+
+задания 19,20,21 (решаем Excel`ем)  
+https://inf-ege.sdamgia.ru/test?theme=407  
+https://inf-ege.sdamgia.ru/test?theme=408  
+https://inf-ege.sdamgia.ru/test?theme=409  
 
 05 - двоичное преобразование (решаем питоном):  
 https://inf-ege.sdamgia.ru/test?theme=362  
-
 
 ```
 
