@@ -258,13 +258,19 @@ https://stepik.org/lesson/416145/step/1?unit=405659
 **ДЕНЬ-14 10.04.2021**  
 **Решаем задачи из ЕГЭ**  
 
+05 - двоичное преобразование (решаем руками и питоном):  
+https://inf-ege.sdamgia.ru/test?theme=362  
+
+23 - Задачи про исполнителя (решаем только руками, питоном решали ранее):  
+с обязательным этапом - https://inf-ege.sdamgia.ru/test?theme=277  
+с избегаемым этапом - https://inf-ege.sdamgia.ru/test?theme=217  
+с обязательным и избегаемым этапами - https://inf-ege.sdamgia.ru/test?theme=183  
+
 задания 19,20,21 (решаем Excel`ем)  
 https://inf-ege.sdamgia.ru/test?theme=407  
 https://inf-ege.sdamgia.ru/test?theme=408  
 https://inf-ege.sdamgia.ru/test?theme=409  
 
-05 - двоичное преобразование (решаем питоном):  
-https://inf-ege.sdamgia.ru/test?theme=362  
 
 ```
 
