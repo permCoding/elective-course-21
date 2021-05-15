@@ -1,0 +1,6 @@
+f = open('24.txt')
+s = f.readline()
+f.close()
+lst = s.split('XZZY')
+res = max(map(lambda x: len(x), lst))
+print(res)

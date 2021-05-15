@@ -271,6 +271,17 @@ https://inf-ege.sdamgia.ru/test?theme=407
 https://inf-ege.sdamgia.ru/test?theme=408  
 https://inf-ege.sdamgia.ru/test?theme=409  
 
+---  
+
+**ДЕНЬ-15 15.05.2021**  
+**Решаем задачи из открытого варианта ЕГЭ**  
+
+23, 24  
+
+Тренируем решение задачи 25:  
+https://official.contest.yandex.ru/contest/27424/  
+
+25, 26, 27  
 
 ```
 
