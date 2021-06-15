@@ -12,13 +12,15 @@ for _ in range(n):
     else:
         b.append(k)
 
+maxe = 0
+summ = sum(b)
 a = sorted(a)
-summ = sum(a[n//2:]) + sum(b)
-for e in a[:n//2]:
-    if e > 100:
-        summ += e*0.7
-    else:
-        summ += e
-    m = e
 
-print(math.ceil(summ),m)
+for i in range(len(a)):
+    if i < len(a)//2:
+        summ += a[i]*0.7
+        maxe = a[i]
+    else:
+        summ += a[i]
+
+print(math.ceil(summ), maxe)
